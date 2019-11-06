@@ -1,4 +1,4 @@
-module github.com/svanburen/enumer
+module github.com/catch-co/enumer
 
 go 1.13
 
